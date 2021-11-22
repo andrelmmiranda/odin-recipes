@@ -1,0 +1,20 @@
+main{
+   text-align: center
+}
+
+.img-home{
+    width: 200px;
+}
+
+img{
+    width: 500px;
+}
+
+li{
+    line-height: 30px;
+}
+
+span{
+    margin-left: 5px;
+    font-size: 12px;
+}
